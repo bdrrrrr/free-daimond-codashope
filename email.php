@@ -1,3 +1,6 @@
+<!-- Ganti menjadi email mu disini-->
+<!-- Ingat JANGAN GANTI COPYRIGHT SC-->
+<!-- Script di buat oleh PulberAja-->
 <?php
-$emailku ='sahilhossain999coc@gmail.com'; // GANTI EMAIL KAMU DISINI
+$emailku = 'sahilthegeek999@gmail.com';
 ?>
